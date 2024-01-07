@@ -280,6 +280,10 @@ img{
   justify-self: center;
 }
 
+.home__data{
+  justify-self: center;
+}
+
 /*========== BUTTONS ==========*/
 .button{
   display: inline-block;
