@@ -1,4 +1,4 @@
-Trying to learn how to code...
+# Trying to learn how to code...
 
-Used Bemicodes template and changed it to create a business website with a blog. 
+Used Bemicode's template and changed it to create a business website with a blog. 
 ***Work in progress***
